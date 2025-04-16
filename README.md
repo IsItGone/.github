@@ -11,24 +11,27 @@
 ---
 ### 🚀 서비스 바로가기
 
-<div style="display: flex; flex-direction: row; justify-content: flex-start; gap: 10px; align-items: center;">
-  <div style="display:flex; flex-direction: column; align-items: center; gap: 5px;">
-    <a href="https://play.google.com/store/apps">
+<div style="display: table; width: 100%; text-align: left;">
+  <div style="display: table-cell; text-align: center;">
+    <a href="https://isitgone.site">
       <img src="https://img.shields.io/badge/Web-Available-ad83d9?logo=google-chrome&logoColor=white" alt="Web" />
     </a>
-    <img src="/assets/qr.png" alt="Web QR" width="180" />
+    <br>
+    <img src="/assets/qr.png" alt="Web QR" width="160" />
   </div>
-  <div style="display:flex; flex-direction: column; align-items: center; gap: 5px;">
+  <div style="display: table-cell; text-align: center;">
     <a href="https://play.google.com/store/apps">
       <img src="https://img.shields.io/badge/Google%20Play-Coming_soon!-brightgreen?logo=google-play" alt="Google Play" />
     </a>
-    <img src="/assets/qr.png" alt="Play Store QR" width="180" />
+    <br>
+    <img src="/assets/qr.png" alt="Play Store QR" width="160" />
   </div>
-  <div style="display:flex; flex-direction: column; align-items: center; gap: 5px;">
+  <div style="display: table-cell; text-align: center;">
     <a href="https://apps.apple.com">
       <img src="https://img.shields.io/badge/App%20Store-Coming_soon!-blue?logo=apple" alt="App Store" />
     </a>
-    <img src="/assets/qr.png" alt="App Store QR" width="180" />
+    <br>
+    <img src="/assets/qr.png" alt="App Store QR" width="160" />
   </div>
 </div>
 
