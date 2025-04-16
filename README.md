@@ -1,12 +1,13 @@
 
 <h1 align="center">
-  <a href="https://isitgone.site"><img src="/assets/isitgone.png" alt="Is It Gone?" width="192"></a>
+  <a href="https://isitgone.site"><img src="/assets/isitgone.png" alt="Is It Gone?" width="192" style="margin-bottom: 10px"></a>
+  <br>
+  지나갔나요?
+  <br>
 </h1>
 
-<div align="center" style="font-weight: bold">
-    <div style="font-size: 24px; margin-bottom: 10px">지나갔나요?</div>
-    <div style="font-size: 14px">삼성 청년 SW 아카데미 대전 캠퍼스 교육생을 위한 셔틀 앱</div>
-</div>
+<h4 align="center">삼성 청년 SW 아카데미 대전 캠퍼스 교육생을 위한 셔틀 앱</h4>
+
 
 ### [🖥️ https://isitgone.site](https://isitgone.site)
 
