@@ -8,44 +8,34 @@
 
 <h4 align="center">삼성 청년 SW 아카데미 대전 캠퍼스 교육생을 위한 셔틀 앱</h4>
 
+---
+### 🚀 서비스 바로가기
 
-### [🖥️ https://isitgone.site](https://isitgone.site)
-
-
-<div style="display: flex; gap: 5px; align-items: center;">
+<div style="display: flex; justify-content: left; gap: 10px; align-items: center;">
+  <div style="text-align: center;">
+    <a href="https://play.google.com/store/apps">
+        <img src="https://img.shields.io/badge/Web-Available-ad83d9?logo=google-chrome&logoColor=white" alt="Web" style="padding: 10px;" />
+    </a>
+    <br/>
+    <img src="/assets/qr.png" alt="Play Store QR" width="180" />
+  </div>
   <div style="text-align: center;">
     <a href="https://play.google.com/store/apps">
       <img src="https://img.shields.io/badge/Google%20Play-Coming_soon!-brightgreen?logo=google-play" alt="Google Play" style="padding: 10px;" />
     </a>
     <br/>
-    <img src="/assets/qr.png" alt="Play Store QR" width="175" />
+    <img src="/assets/qr.png" alt="Play Store QR" width="180" />
   </div>
   <div style="text-align: center;">
     <a href="https://apps.apple.com">
       <img src="https://img.shields.io/badge/App%20Store-Coming_soon!-blue?logo=apple" alt="App Store" style="padding: 10px;" />
     </a>
     <br/>
-    <img src="/assets/qr.png" alt="App Store QR" width="175" />
+    <img src="/assets/qr.png" alt="App Store QR" width="180" />
   </div>
 </div>
 
-
-[//]: # ([![Download on the Play Store]&#40;https://img.shields.io/badge/Google%20Play-Coming_soon!-brightgreen?logo=google-play&#41;]&#40;https://play.google.com/store/apps&#41;)
-
-[//]: # ()
-[//]: # (<img src="/assets/qr.png" alt="Play Store QR" width="200"/>)
-
-[//]: # ()
-[//]: # ()
-[//]: # ([![Download on the App Store]&#40;https://img.shields.io/badge/App%20Store-Coming_soon!-blue?logo=apple&#41;]&#40;https://apps.apple.com&#41;)
-
-[//]: # ()
-[//]: # (<img src="./assets/qr.png" alt="App Store QR" width="200"/>)
-
-[//]: # ([![Download on the Play Store]&#40;https://img.shields.io/badge/Google%20Play-Download-brightgreen?logo=google-play&#41;]&#40;https://play.google.com/store/apps/details?id=com.example.app&#41;)
-[//]: # ([![Download on the App Store]&#40;https://img.shields.io/badge/App%20Store-Download-blue?logo=apple&#41;]&#40;https://apps.apple.com/app/id000000000&#41;)
-
-
+---
 ### 🛠️ Built With
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/) 
@@ -57,7 +47,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions) 
 
 
-### 🚀 Deployment Architecture
+### ☁️ Simple Architecture
 
 ![img_1.png](/assets/architecture.png)
 
