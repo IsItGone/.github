@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/Web-Available-ad83d9?logo=google-chrome&logoColor=white" alt="Web" />
       </a>
       <br>
-      <img src="/assets/qr.png" alt="Web QR" width="160" />
+      <img src="/assets/qr-web.png" alt="Web QR" width="160" />
     </td>
     <td align="center">
       <a href="https://play.google.com/store/apps">
@@ -36,60 +36,6 @@
     </td>
   </tr>
 </table>
-
-
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <div style="text-align: center;">
-    <a href="https://isitgone.site">
-      <img src="https://img.shields.io/badge/Web-Available-ad83d9?logo=google-chrome&logoColor=white" alt="Web" />
-    </a>
-    <br>
-    <img src="/assets/qr.png" alt="Web QR" width="160" />
-  </div>
-  <div style="text-align: center;">
-    <a href="https://play.google.com/store/apps">
-      <img src="https://img.shields.io/badge/Google%20Play-Coming_soon!-brightgreen?logo=google-play" alt="Google Play" />
-    </a>
-    <br>
-    <img src="/assets/qr.png" alt="Play Store QR" width="160" />
-  </div>
-  <div style="text-align: center;">
-    <a href="https://apps.apple.com">
-      <img src="https://img.shields.io/badge/App%20Store-Coming_soon!-blue?logo=apple" alt="App Store" />
-    </a>
-    <br>
-    <img src="/assets/qr.png" alt="App Store QR" width="160" />
-  </div>
-</div>
-
-
-
-
-
-<div style="display: table; width: 100%;">
-  <div style="display: table-cell; text-align: center;">
-    <a href="https://isitgone.site">
-      <img src="https://img.shields.io/badge/Web-Available-ad83d9?logo=google-chrome&logoColor=white" alt="Web" />
-    </a>
-    <br>
-    <img src="/assets/qr.png" alt="Web QR" width="160" />
-  </div>
-  <div style="display: table-cell; text-align: center;">
-    <a href="https://play.google.com/store/apps">
-      <img src="https://img.shields.io/badge/Google%20Play-Coming_soon!-brightgreen?logo=google-play" alt="Google Play" />
-    </a>
-    <br>
-    <img src="/assets/qr.png" alt="Play Store QR" width="160" />
-  </div>
-  <div style="display: table-cell; text-align: center;">
-    <a href="https://apps.apple.com">
-      <img src="https://img.shields.io/badge/App%20Store-Coming_soon!-blue?logo=apple" alt="App Store" />
-    </a>
-    <br>
-    <img src="/assets/qr.png" alt="App Store QR" width="160" />
-  </div>
-</div>
 
 ---
 ### 🛠️ Built With
