@@ -9,7 +9,7 @@
 <h4 align="center">삼성 청년 SW 아카데미 대전 캠퍼스 교육생을 위한 셔틀 앱</h4>
 
 ---
-### 🚀 서비스 바로가기
+## 🚀 서비스 바로가기
 
 <table>
   <tr>
@@ -37,8 +37,8 @@
   </tr>
 </table>
 
----
-### 🛠️ Built With
+
+## 🛠️ Built With
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/) 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot) 
@@ -48,13 +48,13 @@
 [![Argo CD](https://img.shields.io/badge/Argo--CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/) 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions) 
 
----
-### ☁️ Simple Architecture
+
+## ☁️ Simple Architecture
 
 ![img_1.png](/assets/architecture.png)
 
----
-## **주요 레포 소개**
+
+## 주요 레포 소개
 
 - [client](https://github.com/IsItGone/client)
 - [graphql](https://github.com/IsItGone/graphql)
