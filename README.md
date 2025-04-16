@@ -48,11 +48,12 @@
 [![Argo CD](https://img.shields.io/badge/Argo--CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/) 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions) 
 
-
+---
 ### ☁️ Simple Architecture
 
 ![img_1.png](/assets/architecture.png)
 
+---
 ## **주요 레포 소개**
 
 - [client](https://github.com/IsItGone/client)
