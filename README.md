@@ -9,7 +9,7 @@
 <h4 align="center">삼성 청년 SW 아카데미 대전 캠퍼스 교육생을 위한 셔틀 앱</h4>
 
 ---
-## 🚀 서비스 바로가기
+### 🚀 서비스 바로가기
 
 <table>
   <tr>
@@ -38,29 +38,40 @@
 </table>
 
 
-## 🛠️ Built With
+### 🛠️ Built With
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/) 
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot) 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
 [![K3s](https://img.shields.io/badge/K3s-FF6600?style=for-the-badge&logo=k3s&logoColor=white)](https://k3s.io/) 
 [![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/) 
 [![Argo CD](https://img.shields.io/badge/Argo--CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/) 
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions) 
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
 
-## ☁️ Simple Architecture
+### ☁️ Simple Architecture
 
 ![img_1.png](/assets/architecture.png)
 
 
-## 주요 레포 소개
+## ⭐ Repositories
 
-- [client](https://github.com/IsItGone/client)
-- [graphql](https://github.com/IsItGone/graphql)
-- [route](https://github.com/IsItGone/route)
-- [station](https://github.com/IsItGone/station)
-- [cluster-config](https://github.com/IsItGone/cluster-config)
-- [helm-base-chart](https://github.com/IsItGone/helm-base-chart)
-- [ci-templates](https://github.com/IsItGone/ci-templates)
+### 1) Client
+**[client](https://github.com/IsItGone/client)**: Flutter 기반 Android, iOS, Web 앱 코드베이스
 
+
+### 2) Server
+**[Graphql service (graphql)](https://github.com/IsItGone/graphql)**: 조회 성능 개선을 위한 읽기 모델
+
+**[Route service (route)](https://github.com/IsItGone/route)**: 노선 관리 서비스
+
+**[Station service (station)](https://github.com/IsItGone/station)**: 정류장 관리 서비스
+
+
+### 3) CI/CD, GitOps
+**[GitOps (cluster-config)](https://github.com/IsItGone/cluster-config)**: ArgoCD 동기화 대상 리소스 및 클러스터 상태 구성
+
+**[helm-base-chart](https://github.com/IsItGone/helm-base-chart)**: 재사용 가능한 Helm 베이스 차트 저장소
+
+**[ci-templates](https://github.com/IsItGone/ci-templates)**: 재사용 가능한 Composite actions 템플릿 모음
