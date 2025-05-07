@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <a href="https://isitgone.site"><img src="/assets/isitgone.png" alt="Is It Gone?" width="192" style="margin-bottom: 10px"></a>
+  <a href="https://web.isitgone.site"><img src="/assets/isitgone.png" alt="Is It Gone?" width="192" style="margin-bottom: 10px"></a>
   <br>
   지나갔나요?
   <br>
@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://isitgone.site">
+      <a href="https://web.isitgone.site">
         <img src="https://img.shields.io/badge/Web-Available-ad83d9?logo=google-chrome&logoColor=white" alt="Web" />
       </a>
       <br>
